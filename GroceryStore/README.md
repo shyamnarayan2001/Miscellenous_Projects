@@ -1,25 +1,25 @@
 # Miscellenous_Projects
 
 ## Overview
-This project is a small prototype representation of Grocery store where the following operations can be done from console:
-(1) Add a new Product to the inventory (with discount value, if applicable)
-(2) Display product list from the inventory 
-(3) Order the Product. 
-(4) Total Sales Data 
-(5) Exit. 
+This project is a small prototype representation of Grocery store where the following operations can be done from console:<br/>
+(1) Add a new Product to the inventory (with discount value, if applicable)<br/>
+(2) Display product list from the inventory <br/>
+(3) Order the Product. <br/>
+(4) Total Sales Data <br/>
+(5) Exit. <br/>
 
 Note: There is no database integration. It uses ArrayList datastructure to persist the information at runtime and the data is not permanently persisted.
 
 ## Instructions to run:
 1. Import the project as normal standalone Java project to any IDE (like Eclipse or Intellij)
 2. Once imported, run the Java class Application.java (as a normal Java Application)
-3. You will be provided with the menu options, enter any of the below values to proceed.
------ Shopping List------
-(1) Add a new Product to the inventory (with discount value, if applicable)
-(2) Display product list from the inventory 
-(3) Order the Product. 
-(4) Total Sales Data 
-(5) Exit. 
+3. You will be provided with the menu options, enter any of the below values to proceed.<br/>
+----- Shopping List------<br/>
+(1) Add a new Product to the inventory (with discount value, if applicable)<br/>
+(2) Display product list from the inventory <br/>
+(3) Order the Product. <br/>
+(4) Total Sales Data <br/>
+(5) Exit. <br/>
 
 ## Sample Console output:
 
