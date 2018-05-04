@@ -1,0 +1,21 @@
+{
+  "name": "imdbrating",
+  "version": "1.0.0",
+  "description": "This is Rest API to Web scrape IMDB Rating for a  movie from the IMDB Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Narayan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
